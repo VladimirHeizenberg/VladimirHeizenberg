@@ -2,8 +2,6 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 
-## My Coding activity(since 1 March 2026)
-![](https://heatmap.shymike.dev/?id=29451&timezone=UTC)
 <!--
 **VladimirHeizenberg/VladimirHeizenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
