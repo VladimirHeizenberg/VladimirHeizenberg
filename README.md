@@ -2,6 +2,10 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 
+- 🔭 I’m currently working on [Visual novel about Dmitriy Shostakovich](https://github.com/VladimirHeizenberg/visual-novel-shostakovich)
+- 🌱 I’m currently learning `Java`, `SQL`, `Docker`, `CUDA`
+- 👯 I’m looking to collaborate on some projects in `C/C++`, `Backend`, `HPC` spheres
+
 <!--
 **VladimirHeizenberg/VladimirHeizenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
