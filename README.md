@@ -1,10 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Vladimir
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
 
-- 🔭 I’m currently working on [Visual novel about Dmitriy Shostakovich](https://github.com/VladimirHeizenberg/visual-novel-shostakovich)
-- 🌱 I’m currently learning `Java`, `SQL`, `Docker`, `CUDA`
-- 👯 I’m looking to collaborate on some projects in `C/C++`, `Backend`, `HPC` spheres
+### 🚀 Selected Projects
+* **[Don't use Script](https://github.com/VladimirHeizenberg/dont-use-script)**
+
+  *A custom interpreter for a Python-inspired language. Implemented from scratch to explore **lexer/parser architecture**, abstract syntax trees (AST), and runtime execution environments.*
+
+
+* **[Ranges](https://github.com/VladimirHeizenberg/ranges)**
+
+  *A header-only C++23 library for building elegant data pipelines. Features lazy evaluations, O(1) space complexity for most adapters and a pipe-based API*
+
+### 🌱 Learning
+- **System & HPC:** I'm currently learning `CUDA` and deeping my knowledge in Computer Architecture
+- **Backend:** I'm exploring `Java` (Spring), `Kafka` and `Docker` 
+
+### 👯 Collaboration
+&emsp;I’m looking to collaborate on some projects in `C/C++`, `Backend`, `HPC` spheres
 
 <!--
 **VladimirHeizenberg/VladimirHeizenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
