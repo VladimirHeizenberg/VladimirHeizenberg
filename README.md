@@ -16,6 +16,10 @@
 
   *A header-only C++20 library implementing high-performance, cache-friendly and STL-compatible container for C++.*
 
+* **[RISC-V Emulator](https://github.com/VladimirHeizenberg/risc-v)**
+
+  *An emulator of ISA RISC-V with cache and RAM, that allows to compute statistics of cache hits with different policies of replacement*
+
 ### 🌱 Learning
 - **System & HPC:** I'm currently learning `CUDA` and deeping my knowledge in Computer Architecture
 - **Backend:** I'm exploring `Java` (Spring), `Kafka` and `Docker` 
